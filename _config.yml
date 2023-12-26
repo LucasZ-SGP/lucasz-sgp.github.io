@@ -1,0 +1,60 @@
+
+title: "Home"
+author: "Lucas"
+footer_title: "Lucas' Digital Library"
+description: "Lucas' digital playground. Featuring my resume, project showcase and machine learning notes!"
+linkedin_username: "lucas-zhang-sde"
+github_username:  "LucasZ-SGP"
+
+resume_theme:                   default
+resume_avatar: "true"
+resume_name: "Lucas Zhang"
+resume_title: "Software Engineer at SingTel"
+resume_header_intro: "<p>Welcome to my digital playground! With 2.5 years in the IT realm, I thrive on backend development, sculpting code to turn concepts into reality. My tech passion centers on Python and machine learning, where I'm always pushing boundaries and exploring the cutting edge.</p>"
+resume_social_links:
+  resume_github_url:            "https://github.com/LucasZ-SGP/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/lucas-zhang-sde"
+resume_contact_email:           "lucas.z.sde@gmail.com"
+resume_contact_number:          "+65 96575325"
+resume_looking_for_work:        "yes"
+
+resume_print_social_links:      false
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        false
+resume_section_skills:          false
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: jekyll-theme-lucas-minima
+plugins:
+  - jekyll-feed
+
+
+
+
+# Site settings
+
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+
+
+# used for the contact button in _layouts/resume.html
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "555-7334"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
+
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info:    "false"
+
+
