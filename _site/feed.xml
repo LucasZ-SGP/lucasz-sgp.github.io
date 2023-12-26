@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-12-26T22:02:12+08:00</updated><id>/feed.xml</id><title type="html">Home</title><subtitle>Lucas&apos; digital playground. Featuring my resume, project showcase and machine learning notes!</subtitle><author><name>Lucas</name></author><entry><title type="html">Finite Markov Decision Processes</title><link href="/RL/1" rel="alternate" type="text/html" title="Finite Markov Decision Processes" /><published>2023-12-25T23:06:32+08:00</published><updated>2023-12-25T23:06:32+08:00</updated><id>/RL/finiteMarkovDecisionProcesses</id><content type="html" xml:base="/RL/1"><![CDATA[<p>To be updated with <code class="language-plaintext highlighter-rouge">RL chapter3 notes</code></p>
-
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
-  <span class="n">puts</span> <span class="s">"Hi, #{name}"</span>
-<span class="n">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Sample code' to STDOUT.</span></code></pre></figure>
-
-<p>sample link: <a href="https://www.google.com/maps">google map</a>.</p>]]></content><author><name>Lucas</name></author><category term="RL" /><summary type="html"><![CDATA[To be updated with RL chapter3 notes]]></summary></entry></feed>
