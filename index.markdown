@@ -3,8 +3,7 @@ layout: home
 title: null
 ---
 
-### HELLO! The site is still under construction :  ( 
-### You may want to visit my resume first :  )
+`HELLO! The site is still under construction :  ( You may want to visit my resume first :  )`
 
 <!-- ### Post List:
 <ul>
