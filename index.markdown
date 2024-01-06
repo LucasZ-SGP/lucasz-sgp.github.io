@@ -17,6 +17,7 @@ title: null
 
 
 `26 Dec 2023: First commit. template ready, resume ready.`
+`7 Jan 2023: Updated first note.`
 
 
 
