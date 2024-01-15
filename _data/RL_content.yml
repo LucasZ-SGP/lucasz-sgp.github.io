@@ -1,4 +1,7 @@
 - title: Finite Markov Decision Processes
   path: /RL/1
   description: Finite Markov Decision Processes
+- title: Dynamic Programming in RL
+  path: /RL/2
+  description: Dynamic Programming in RL
 

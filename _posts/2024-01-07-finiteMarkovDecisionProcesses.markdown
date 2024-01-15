@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finite Markov Decision Processes"
-date:   2023-12-25 23:06:32 +0800
+date:   2024-01-07 23:06:32 +0800
 categories: RL
 permalink: /RL/1
 button_text: "RL"
@@ -136,7 +136,8 @@ Note the above equation is the `Bellman Equation` for
 $$v_{\pi}$$
 .
 
-**2. Optimal Policies and Optimal Value Functions**
+
+#### 3. Optimal Policies and Optimal Value Functions
 
 **Optimal Policy:** A better policy satisfies 
 $$v_{\pi}(s) \geq v_{\pi'}(s) ,\forall s \in S$$
